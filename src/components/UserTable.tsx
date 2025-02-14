@@ -38,10 +38,10 @@ export function UserTable({
       />
       <TableHeader className="bg-gray-300">
         <TableRow>
-          <TableHead className="w-[100px]">UserName</TableHead>
+          <TableHead>UserName</TableHead>
           <TableHead>ArabicName</TableHead>
           <TableHead>EnglishName</TableHead>
-          <TableHead className="w-[150px]">Actions</TableHead>{" "}
+          <TableHead className="w-[150px]">Actions</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>
